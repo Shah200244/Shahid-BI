@@ -1,1 +1,2 @@
-# Shahid-BI
+# Power-BI 
+This the supply chain chain project.
